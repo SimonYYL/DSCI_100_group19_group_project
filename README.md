@@ -9,7 +9,7 @@ Miles Brodie
 
 ### **Currenly on project proposal**
 <span style="color:red"> Status：we made a choose of data set: *Tennis data*   
-with link overhere: https://canvas.ubc.ca/courses/73362/files/15128461/download?wrap=1 </span> 
+with link overhere: https://drive.google.com/uc?export=download&id=1fOQ8sy_qMkQiQEAO6uFdRX4tLI8EpSTn </span> 
 
 
 <span style="font-family:Papyrus; font-size:4em;">Good luck</span>
